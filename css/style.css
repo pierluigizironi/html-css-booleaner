@@ -63,3 +63,14 @@ figure {
 ul {
     padding-left: 15px;
 }
+
+/* Tabella */
+
+#testa-tabella {
+    background-color: rgb(7, 103, 148);
+    color: white;
+}
+
+.corpo-tabella {
+    background-color: rgb(142, 229, 245);
+}
