@@ -47,3 +47,11 @@ h1 {
     color: grey;
     font-size: 14px;
 }
+
+/* Immagine e descrizione immagine */
+
+figure {
+    margin-left: 5px;
+}
+
+/* Paragrafo */
