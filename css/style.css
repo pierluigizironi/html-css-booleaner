@@ -26,4 +26,24 @@ height: 180px;
     margin-top: 30px;
 }
 
-/* Main */
+/* Titolo data e autore */
+
+h1 {
+    font-size: 30px;
+    margin-bottom: 0px;
+}
+
+#author {
+    color: grey;
+    font-weight: bold;
+}
+
+#linkstyle {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#date {
+    color: grey;
+    font-size: 14px;
+}
