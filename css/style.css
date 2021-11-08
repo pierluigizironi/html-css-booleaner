@@ -5,6 +5,12 @@ body {
     padding: 0;
 }
 
+main, footer {
+    margin-left: 5px;
+}
+
+/* Header */
+
 #cover {
 background-color: rgb(7, 103, 148);
 background-image: url(../css/img/pattern.png);
@@ -16,6 +22,8 @@ height: 180px;
     width: 250px;
     height: 200px;
     position: bottom;
-    margin-left: 20px;
+    margin-left: 5px;
     margin-top: 30px;
 }
+
+/* Main */
