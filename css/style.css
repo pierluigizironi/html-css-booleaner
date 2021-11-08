@@ -9,6 +9,10 @@ main, footer {
     margin-left: 5px;
 }
 
+.evidenziato {
+    background-color: yellow;
+}
+
 /* Header */
 
 #cover {
