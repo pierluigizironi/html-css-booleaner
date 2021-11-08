@@ -58,4 +58,8 @@ figure {
     margin-left: 5px;
 }
 
-/* Paragrafo */
+/* Lista */
+
+ul {
+    padding-left: 15px;
+}
