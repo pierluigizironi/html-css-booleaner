@@ -1,5 +1,21 @@
 /* General */
+
 body {
     margin: 0;
-    padding: 0:;
+    padding: 0;
+}
+
+#cover {
+background-color: rgb(7, 103, 148);
+background-image: url(../css/img/pattern.png);
+width: 100%;
+height: 180px;
+}
+
+#logo {
+    width: 250px;
+    height: 200px;
+    position: bottom;
+    margin-left: 20px;
+    margin-top: 30px;
 }
